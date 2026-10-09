@@ -287,12 +287,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ### No Interrupt:
 
-<img width="719" height="1600" alt="image" src="https://github.com/user-attachments/assets/99f15625-b384-477f-a97c-9e477ddab4be" />
+<img width="719" height="770" alt="WhatsApp Image 2026-10-09 at 9 01 45 AM" src="https://github.com/user-attachments/assets/0bec2f1f-ffd4-4879-99c5-6d0eb5a12e3e" />
+
 
 
 ### Interrupt Found:
 
-<img width="719" height="1600" alt="image" src="https://github.com/user-attachments/assets/c7650e0d-778d-44fe-b2ca-8bcc8068d2ad" />
+<img width="719" height="861" alt="WhatsApp Image 2026-10-09 at 9 01 56 AM" src="https://github.com/user-attachments/assets/edeeef9a-fbe6-4934-83f7-7b5940e46bec" />
+
  
  
  
